@@ -1,3 +1,15 @@
+## 安装必须
+sudo apt-get install ros-indigo-brics-actuator 
+sudo apt-get install gcc-multilib g++-multilib
+sudo apt-get install libsvm-dev 
+sudo apt-get install ros-indigo-moveit-ros
+sudo apt-get install libudev-dev 
+sudo apt-get install libv4l-dev
+sudo apt-get install libdevil1c2
+sudo apt-get install libdevil-dev 
+sudo apt-get install ros-indigo-pr2-msgs
+sudo apt-get install ros-indigo-navigation
+
 ## Install Ubuntu
 The repository and its related components have been tested under the following Ubuntu distributions:
 
